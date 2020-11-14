@@ -4,4 +4,4 @@
 
 [回路図](shield_servo_adc_sw_gpio_led.pdf)
 
-[GBR](shield_servo_adc_sw_gpio_led-B_Cu.zip)
+[GBR](GBRsole/shield_sole.zip)
